@@ -57,7 +57,7 @@ data-hub
 
 Clone the repository
 
-git clone https://github.com/NayanKarIITP/data-hub.git
+git clone https://github.com/NayanKarIITP/Prodeskit_9.git
 
 Navigate to the project folder
 
